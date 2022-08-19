@@ -1,6 +1,6 @@
 ### Hello, I'm Dan!
 
-- 🌱 I’m currently learning a bit of everything and looking for a software engineering role!
+- 🌱 I’m currently building a Pokemon-style game using vanilla JS. I'm looking for a software engineering role in front-end, full-stack or development!
 
 
 ### Connect with me:
